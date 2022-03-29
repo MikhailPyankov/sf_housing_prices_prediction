@@ -1,6 +1,6 @@
 # sf_housing_prices_prediction
 
-This project is dedicated to predicting prices of houses in San Francisco.  
+This project is dedicated to predicting housing prices in San Francisco.  
 
 1. realtor_scraper.ipynb: code used to scrape realtor.com for training data
 2. EDA_and_preprocessing.ipynb: exploratory data analysis and preparation of the data for modeling
